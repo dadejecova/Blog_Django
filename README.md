@@ -7,3 +7,4 @@ Testing new features Vs
 - source .\env\Scripts\activate or "cd env - cd Scripts - activate"
 - pip install Django==4.1.7
 - django-admin startproject blog_main .
+- python manage.py migrate
