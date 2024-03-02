@@ -8,3 +8,5 @@ Testing new features Vs
 - pip install Django==4.1.7
 - django-admin startproject blog_main .
 - python manage.py migrate
+
+- Static Fiels - Static Roots
