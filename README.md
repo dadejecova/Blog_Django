@@ -10,3 +10,4 @@ Testing new features Vs
 - python manage.py migrate
 
 - Static Fiels - Static Roots
+- python -m pip install Pillow
