@@ -11,3 +11,4 @@ Testing new features Vs
 
 - Static Fiels - Static Roots
 - python -m pip install Pillow
+- Add more Categories and Post
